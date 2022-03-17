@@ -2,6 +2,8 @@
 Bem vindo ao meu perfil GitHub!
 
 
+(![Fernandacarva GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernandacarva&show_icons=true&theme=radical)
+
 
 
  ### 👩‍💻 Linguagens que estou aprendendo:
