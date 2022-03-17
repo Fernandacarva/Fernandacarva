@@ -2,7 +2,7 @@
 Bem vindo ao meu perfil GitHub!
 
 
-(![Fernandacarva GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernandacarva&show_icons=true&theme=radical)
+![Fernandacarva GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernandacarva&show_icons=true&theme=radical)
 
 
 
