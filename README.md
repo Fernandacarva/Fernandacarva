@@ -1,7 +1,7 @@
 # Olá, me chamo Fernanda 👋
 Bem vindo ao meu perfil GitHub!
 
-
+![Fernandacarva](https://github-readme-stats.vercel.app/api?username=Fernandacarva&show_icons=true&theme=radical)
 
 ### 👩‍💻 Linguagens que estou aprendendo:
 ![Linguagens](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
