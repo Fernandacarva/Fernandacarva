@@ -1,4 +1,4 @@
-## Olá, me chamo Fernanda 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+me+chamo+Fernanda+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Futura+Dev+Back-end+Kotlin+%2B+Spring)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -30,10 +30,4 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-## 📲 Contato
-[[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU-LINK-LINKEDIN)
-[[Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Profile%20views&color=7F52FF&style=flat" alt="Profile views" />
-</div>
