@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+me+chamo+Fernanda+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Futura+Dev+Back-end+Kotlin+%2B+Spring)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+me+chamo+Fernanda+%F0%9F%91%8B;)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -28,6 +28,3 @@
 ## 💻 Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
-
