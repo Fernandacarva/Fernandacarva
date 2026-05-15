@@ -9,6 +9,7 @@
 ## 🚀 Sobre mim
 - 🎓 Cursando **Engenharia de Software**
 - ⚓ Atualmente estagiária na **Marinha do Brasil**
+- 🐍 Estudando Python 
 - 💻 Tenho base em **C** e **C++** da faculdade e do estágio
 - 🎯 Em busca de **estágio em Desenvolvimento Back-end**
 
