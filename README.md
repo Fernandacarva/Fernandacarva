@@ -2,7 +2,6 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandacarva&show_icons=true&theme=dracula&locale=pt-br"/>
 
   
 </div>
@@ -10,13 +9,10 @@
 ## 🚀 Sobre mim
 - 🎓 Cursando **Engenharia de Software**
 - ⚓ Atualmente estagiária na **Marinha do Brasil**
-- 📚 Estudando **Kotlin + Spring Boot** para Back-end
 - 💻 Tenho base em **C** e **C++** da faculdade e do estágio
-- 👗 Primeiro projeto: API **Look do Dia** em desenvolvimento
 - 🎯 Em busca de **estágio em Desenvolvimento Back-end**
 
 ## 👩‍💻 Linguagens
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
